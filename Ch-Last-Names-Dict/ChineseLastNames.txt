@@ -1,0 +1,1607 @@
+LastName	Pinyin
+阿	a
+哀	ai
+蔼	ai
+艾	ai
+爱	ai
+安	an
+昂	ang
+敖	ao
+奥	ao
+夭	ao
+把	bǎ
+巴	bā
+仈	bā
+巴邻	bā lín
+把利	bǎ lì
+巴林	bā lín
+白	bái
+拜	bài
+百	bǎi
+柏	bǎi
+百里	bǎi lǐ
+办	bàn
+板	bǎn
+班	bān
+般	bān
+邦	bāng
+鲍	bào
+暴	bào
+宝	bǎo
+保	bǎo
+包	bāo
+褒	bāo
+贝	bèi
+邶	bèi
+孛	bèi
+北	běi
+卑	bēi
+北宫	běi gōng
+北海	běi hǎi
+北唐	běi táng
+本	běn
+奔	bēn
+鼻	bí
+毕	bì
+邲	bì
+辟	bì
+弊	bì
+贲	bì
+闭	bì
+碧	bì
+匕	bǐ
+比	bǐ
+毴	bī
+逼	bī
+碧鲁	bì lǔ
+卞	biàn
+边	biān
+表	biǎo
+别	bié
+丙	bǐng
+邴	bǐng
+帛	bó
+薄	bó
+伯	bó
+波	bō
+不	bù
+布	bù
+步	bù
+卜	bǔ
+才	cái
+财	cái
+蔡	cài
+彩	cǎi
+藏	cáng
+仓	cāng
+苍	cāng
+苍梧	cāng wú
+曹	cáo
+漕	cáo
+操	cāo
+厕	ce
+策	cè
+岑	cén
+茶	chá
+察	chá
+柴	chái
+虿	chài
+禅	chán
+产	chǎn
+单于	chán yú
+长	cháng
+苌	cháng
+常	cháng
+畅	chàng
+唱	chàng
+敞	chǎng
+昌	chāng
+长兴	cháng xīng
+长鱼	cháng yú
+晁	cháo
+巢	cháo
+朝	cháo
+潮	cháo
+钞	chāo
+超	chāo
+抄	chāo
+车	chē
+沉	chén
+陈	chén
+晨	chén
+谌	chén
+尘	chén
+郴	chēn
+陈观	chén guān
+陈没	chén méi
+晟	chéng
+成	chéng
+承	chéng
+城	chéng
+程	chéng
+澄	chéng
+呈	chéng
+称	chēng
+成王	chéng wáng
+匙	chi
+持	chí
+池	chí
+迟	chí
+茌	chí
+赤	chì
+齿	chǐ
+赤翟	chì dí
+叱干	chì gān
+叱吕	chì lǚ
+叱奴	chì nú
+赤松	chì sōng
+赤张	chì zhāng
+虫	chóng
+崇	chóng
+宠	chǒng
+充	chōng
+丑	chǒu
+瘳	chōu
+仇由	chóu yóu
+雏	chú
+除	chú
+触	chù
+储	chǔ
+楚	chǔ
+处	chǔ
+初	chū
+传	chuán
+串	chuàn
+钏	chuàn
+穿封	chuān fēng
+闯	chuǎng
+淳	chún
+春	chūn
+淳于	chún yú
+啜	chuò
+慈	cí
+次	cì
+兹	cī
+丛	cóng
+从	cóng
+枞	cōng
+醋	cù
+爨	cuàn
+翠	cuì
+崔	cuī
+催	cuī
+寸	cùn
+村	cūn
+错	cuò
+蹉	cuō
+达	dá
+答	dá
+笪	dá
+大	dà
+达薄	dá báo
+大狐	dà hú
+达奚	dá xī
+代	dài
+逮	dài
+戴	dài
+歹	dǎi
+但	dàn
+淡	dàn
+澹	dàn
+丹	dān
+郸郯	dan tan
+荡	dàng
+党	dǎng
+党项	dǎng xiàng
+到	dào
+道	dào
+稻	dào
+岛	dǎo
+刀	dāo
+德	dé
+邓	dèng
+登	dēng
+邓李	dèng lǐ
+迪	dí
+狄	dí
+地	dì
+第	dì
+邸	dǐ
+底	dǐ
+磾	dī
+氐	dī
+袛	dī
+第八	dì bā
+第六	dì liù
+第七	dì qī
+第三	dì sān
+第四	dì sì
+第五	dì wǔ
+第一	dì yī
+店	diàn
+典	diǎn
+调	diào
+貂	diāo
+迭	dié
+牒	dié
+定	dìng
+丁	dīng
+栋	dòng
+冻	dòng
+董	dǒng
+东	dōng
+冬	dōng
+东方	dōng fāng
+东郭	dōng guō
+东门	dōng mén
+东野	dōng yě
+鬭	dòu
+窦	dòu
+豆	dòu
+钭	dǒu
+斗	dǒu
+豆卢	dòu lú
+独	dú
+毒	dú
+杜	dù
+度	dù
+蠹	dù
+笃	dǔ
+堵	dǔ
+督	dū
+都	dū
+独孤	dú gū
+独狐	dú hú
+段	duàn
+端	duān
+段干	duàn gàn
+端木	duān mù
+对	duì
+兑	duì
+顿	dùn
+敦	dūn
+撉	dūn
+铎	duó
+堕	duò
+朵	duǒ
+多	duō
+娥	e
+鹅	e
+鄂	e
+阿单	e chán
+尔	er
+兒	er
+佴	er
+贰	er
+法	fǎ
+樊	fán
+范	fàn
+饭	fàn
+藩	fān
+范姜	fàn jiang
+房	fáng
+鲂	fáng
+芳	fāng
+方	fāng
+肥	féi
+费	fèi
+斐	fěi
+飞	fēi
+费莫	fei mo
+酆	Feng
+冯	féng
+逢	féng
+凤	fèng
+俸	fèng
+奉	fèng
+丰	fēng
+风	fēng
+封	fēng
+枫香	fēng xiāng
+佛	fó
+洑	fú
+伏	fú
+扶	fú
+苻	fú
+浮	fú
+符	fú
+福	fú
+付	fù
+傅	fù
+富	fù
+复	fù
+甫	fǔ
+府	fǔ
+夫	fū
+富察	fù chá
+尕	gǎ
+改	gǎi
+淦	gàn
+干	gān
+甘	gān
+刚	gāng
+告	gào
+郜	gào
+皋	gāo
+高	gāo
+高堂	gāo táng
+革	gé
+葛	gé
+盖	gě
+戈	gē
+耿	gěng
+庚	gēng
+贡	gòng
+巩	gǒng
+拱	gǒng
+共	gōng
+弓	gōng
+公	gōng
+功	gōng
+宫	gōng
+恭	gōng
+龚	gōng
+公良	gōng liáng
+公叔	gōng shū
+公孙	gōng sūn
+公西	gōng xī
+公羊	gōng yáng
+公冶	gōng yě
+勾	gòu
+苟	gǒu
+缑	gōu
+顾	gù
+古	gǔ
+谷	gǔ
+估	gū
+辜	gū
+谷梁	gǔ liáng
+谷粱	gǔ liáng
+贯	guàn
+管	guǎn
+关	guān
+官	guān
+广	guǎng
+光	guāng
+贵	guì
+桂	guì
+诡	guǐ
+归	guī
+圭	guī
+妫	guī
+归海	guī hǎi
+国	guó
+虢	guó
+果	guǒ
+过	guō
+郭	guō
+哈	hǎ
+亥	hài
+海	hǎi
+邗	hán
+函	hán
+寒	hán
+韩	hán
+汉	hàn
+汗	hàn
+罕	hǎn
+邯郸	hán dān
+函井	hán jǐng
+杭	háng
+侴	hào
+郝	hǎo
+蒿	hāo
+赫连	hǎo lián
+盍	hé
+禾	hé
+合	hé
+何	hé
+和	hé
+河	hé
+贺	hè
+赫	hè
+黑	hēi
+衡	héng
+弘	hóng
+红	hóng
+宏	hóng
+闳	hóng
+洪	hóng
+侯	hóu
+后	hòu
+郈	hòu
+厚	hòu
+候	hòu
+狐	hú
+胡	hú
+斛	hú
+户	hù
+扈	hù
+虎	hǔ
+呼	hū
+忽	hū
+斛律	hú lǜ
+胡母	hú mǔ
+呼延	hū yán
+华	huá
+滑	huá
+花	huā
+怀	huái
+环	huán
+桓	huán
+宦	huàn
+皇	huáng
+黄	huáng
+黃	huáng
+皇甫	huáng fǔ
+回	huí
+惠	huì
+辉	huī
+浑	hún
+荤	hūn
+霍	huò
+火	huǒ
+嵇	jí
+戢	jí
+集	jí
+籍	jí
+及	jí
+吉	jí
+汲	jí
+极	jí
+姞	jí
+计	jì
+纪	jì
+季	jì
+祭	jì
+蓟	jì
+暨	jì
+冀	jì
+己	jǐ
+稽	jī
+几	jī
+箕	jī
+鸡	jī
+姬	jī
+机	jī
+郏	jiá
+甲	jiǎ
+贾	jiǎ
+家	jiā
+嘉	jiā
+加	jiā
+佳	jiā
+夹谷	jiā gǔ
+建	jiàn
+剑	jiàn
+谏	jiàn
+检	jiǎn
+剪	jiǎn
+简	jiǎn
+翦	jiǎn
+謇	jiǎn
+蹇	jiǎn
+坚	jiān
+菅	jiān
+鉴姓	jiàn xìng
+绛	jiàng
+蒋	jiǎng
+江	jiāng
+姜	jiāng
+将	jiāng
+佼	jiǎo
+矫	jiǎo
+缴	jiǎo
+郊	jiāo
+胶	jiāo
+焦	jiāo
+竭	jié
+节	jié
+捷	jié
+颉	jié
+介	jiè
+芥	jiè
+接	jiē
+揭	jiē
+进	jìn
+晋	jìn
+靳	jìn
+金	jīn
+敬	jìng
+靖	jìng
+镜	jìng
+井	jǐng
+景	jǐng
+京	jīng
+经	jīng
+荆	jīng
+咎	jiù
+九	jiǔ
+酒	jiǔ
+九方	jiǔ fāng
+局	jú
+巨	jù
+俱	jù
+剧	jù
+驹	jū
+鞠	jū
+琚	jū
+居	jū
+沮渠	jǔ qú
+圈	juàn
+卷	juǎn
+角	jué
+隽	jùn
+军	jūn
+君	jūn
+凯	kǎi
+开	kāi
+阚	kàn
+撖	kǎn
+坎	kǎn
+亢	kàng
+抗	kàng
+康	kāng
+靠	kào
+考	kǎo
+克	kè
+客	kè
+可	kě
+柯	kē
+孔	kǒng
+空	kōng
+寇	kòu
+库	kù
+苦	kǔ
+窟贺	kū hè
+郐	kuài
+蒯	kuǎi
+狂	kuáng
+邝	kuàng
+况	kuàng
+旷	kuàng
+匡	kuāng
+魁	kuí
+夔	kuí
+蒉	kuì
+腊	là
+喇	lǎ
+拉	lā
+来	lái
+莱	lái
+赖	lài
+兰	lán
+蓝	lán
+郎	láng
+浪	làng
+朗	lǎng
+劳	láo
+牢	láo
+老	lǎo
+勒	lè
+乐王	lè wáng
+雷	léi
+类	lèi
+耒	lěi
+磊	lěi
+冷	lěng
+黎	lí
+犁	lí
+力	lì
+历	lì
+厉	lì
+利	lì
+励	lì
+隶	lì
+荔	lì
+郦	lì
+栗	lì
+礼	lǐ
+李	lǐ
+里	lǐ
+理	lǐ
+里安	lǐ ān
+荔非	lì fēi
+莲	lián
+连	lián
+联	lián
+廉	lián
+练	liàn
+敛	liǎn
+良	liáng
+梁	liáng
+粱	liáng
+梁丘	liáng qīu
+聊	liáo
+廖	liào
+列	liè
+烈	liè
+林	lín
+蔺	lìn
+凌	líng
+零	líng
+令	lìng
+令狐	ling hú
+刘	liú
+留	liú
+六	liù
+柳	liǔ
+刘傅	liú fù
+泷	lóng
+龙	lóng
+隆	lóng
+娄	lóu
+楼	lóu
+漏	lòu
+卢	lú
+芦	lú
+陆	lù
+逯	lù
+鹿	lù
+禄	lù
+路	lù
+鲁	lǔ
+闾	lǘ
+律	lǜ
+旅	lǚ
+吕	lǚ
+陆费	lù fèi
+甪里	lù lǐ
+栾	luán
+伦	lún
+罗	luó
+洛	luò
+骆	luò
+雒	luò
+裸	luǒ
+闾丘	lv qīu
+麻	má
+马	mǎ
+马佳	mǎ jiā
+马徐	mǎ xú
+蛮	mán
+漫	màn
+满	mǎn
+芒	máng
+莽	mǎng
+邙	māng
+毛	máo
+茅	máo
+猫	máo
+茆	máo
+么	me
+枚	méi
+梅	méi
+门	mén
+蒙	méng
+孟	mèng
+弥	mí
+祢	mí
+糜	mí
+麋	mí
+宓	mì
+秘	mì
+密	mì
+米	mǐ
+弭	mǐ
+苗	miáo
+缪	miào
+妙	miào
+蔑	miè
+闵	mǐn
+闽	mǐn
+悯	mǐn
+敏	mǐn
+闵陈	mǐn chén
+明	míng
+谬	miù
+磨	mó
+摩	mó
+莫	mò
+貊	mò
+墨	mò
+抹撚	mǒ niǎn
+万俟	mò qí
+摩西	mó xī
+牟	móu
+木	mù
+睦	mù
+慕	mù
+穆	mù
+钼	mù
+母	mǔ
+慕容	mù róng
+纳	nà
+那	nā
+纳喇	nà lǎ
+那拉	nā lā
+纳兰	nà lán
+奈	nài
+难	nán
+南	nán
+赧	nǎn
+南宫	nán gōng
+南郭	nán guō
+南门	nán mén
+能	néng
+泥	ní
+倪	ní
+年	nián
+念	niàn
+鸟	niǎo
+聂	niè
+乜	niè
+宁	nìng
+牛	niú
+钮	niǔ
+农	nóng
+耨	nòu
+诺	nuò
+区	ou
+偶	ou
+欧	ou
+盘	pán
+番	pān
+潘	pān
+庞	páng
+逄	páng
+旁	páng
+胖	pàng
+裴	péi
+朋	péng
+彭	péng
+蓬	péng
+鹏	péng
+皮	pí
+甓	pì
+匹	pǐ
+偏	piān
+朴	piáo
+频	pín
+凭	píng
+平	píng
+繁	pó
+濮	pú
+仆	pú
+蒲	pú
+浦	pǔ
+普	pǔ
+溥	pǔ
+濮阳	pú yáng
+骑	qí
+琦	qí
+亓	qí
+祁	qí
+齐	qí
+其	qí
+奇	qí
+歧	qí
+祈	qí
+旗	qí
+綦	qí
+泣	qì
+乞	qǐ
+杞	qǐ
+柒	qī
+七	qī
+戚	qī
+期	qī
+漆	qī
+漆雕	qī dīao
+亓官	qí guān
+丌官	qí guān
+綦连	qí lián
+綦毋	qí wú
+钱	qián
+乾	qián
+潜	qián
+前	qián
+茜	qiàn
+浅	qiǎn
+千	qiān
+牵	qiān
+骞	qiān
+钱王	qián wáng
+强	qiáng
+强梁	qiáng liáng
+乔	qiáo
+侨	qiáo
+桥	qiáo
+谯	qiáo
+樵	qiáo
+巧	qiǎo
+茄	qiǎo
+伽	qié
+郄	qiè
+秦	qín
+琴	qín
+禽	qín
+勤	qín
+钦	qīn
+庆	qìng
+苘	qǐng
+倾	qīng
+青	qīng
+卿	qīng
+清	qīng
+邛	qióng
+仇	qiú
+求	qiú
+裘	qiú
+丘	qiū
+邱	qiū
+秋	qiū
+瞿	qú
+渠	qú
+璩	qú
+蘧	qú
+麹	qū
+曲	qū
+屈	qū
+麴	qū
+屈突	qū tū
+全	quán
+权	quán
+泉	quán
+全黄	quán huáng
+雀	què
+却	què
+阙	què
+炔	quē
+冉	rǎn
+穰	ráng
+让	ràng
+壤驷	rǎng sì
+饶	ráo
+热	rè
+人	rén
+仁	rén
+壬	rén
+任	rén
+仍	réng
+戎	róng
+荣	róng
+容	róng
+融	róng
+柔	róu
+茹	rú
+汝	rǔ
+如花	rú huā
+阮	ruǎn
+芮	ruì
+锐	ruì
+瑞	ruì
+若干	ruò gān
+萨	sà
+洒	sǎ
+撒	sā
+赛	sài
+塞	sāi
+伞	sǎn
+三	sān
+三川	sān chuān
+三乌	sān wū
+桑	sāng
+森	sēn
+僧	sēng
+沙	shā
+杀	shā
+单	shàn
+剡	Shàn
+善	shàn
+鄯	shàn
+陕	shǎn
+闪	shǎn
+苫	shān
+山	shān
+尚	shàng
+赏	shǎng
+商	shāng
+上官	shàng guān
+韶	sháo
+少	shào
+邵	shào
+绍	shào
+佘	shé
+蛇	shé
+折	shé
+厍	shè
+设	shè
+厍狄	shè dí
+佘丘	shé qiū
+蛇丘	shé qiū
+神	shén
+慎	shèn
+沈	shěn
+审	shěn
+申	shēn
+姺	shēn
+莘	shēn
+申屠	shēn tú
+申章	shēn zhāng
+绳	shéng
+圣	shèng
+盛	shèng
+生	shēng
+声	shēng
+石	shí
+时	shí
+实	shí
+莳	shì
+势	shì
+士	shì
+氏	shì
+世	shì
+示	shì
+侍	shì
+是	shì
+释	shì
+奭	shì
+史	shǐ
+始	shǐ
+尸	shī
+失	shī
+师	shī
+诗	shī
+施	shī
+蓍	shī
+侍其	shì qí
+士孙	shì sūn
+受	shòu
+寿	shòu
+守	shǒu
+首	shǒu
+术	shù
+束	shù
+树	shù
+暑	shǔ
+疏	shū
+书	shū
+殳	shū
+叔	shū
+舒	shū
+叔敖	shū áo
+叔带	shū dài
+叔风	shū fēng
+叔服	shū fú
+叔光	shū guāng
+叔连	shū lián
+叔梁	shū liáng
+叔山	shū shān
+叔孙	shū sūn
+叔向	shū xiàng
+叔夜	shū yè
+叔鱼	shū yú
+叔仲	shū zhòng
+耍	shuǎ
+率	shuài
+帅	shuài
+双	shuāng
+霜	shuāng
+税	shuì
+水	shuǐ
+舜	shùn
+顺	shùn
+硕	shuò
+说	shuō
+似	sì
+佀	sì
+姒	sì
+俟	sì
+肆	sì
+四	sì
+死	sǐ
+司	sī
+思	sī
+斯	sī
+司空	sī kōng
+司寇	sī kòu
+司马	sī mǎ
+司徒	sī tú
+司城	sī chéng
+司功	sī gōng
+似和	sì hé
+似先	sì xiān
+宋	sòng
+松	sōng
+嵩	sōng
+玊	sù
+夙	sù
+素	sù
+速	sù
+宿	sù
+粟	sù
+苏	sū
+酸	suān
+隋	suí
+随	suí
+岁	suì
+穗	suì
+邃	suì
+眭	suī
+睢	suī
+孙	sūn
+狲	sūn
+孙华	sūn huá
+锁	suǒ
+所	suǒ
+索	suǒ
+塔	tǎ
+他	tā
+台	tái
+邰	tái
+太	tài
+泰	tài
+太公	tài gōng
+太史	tài shǐ
+太叔	tài shū
+潭	tán
+谈	tán
+覃	tán
+谭	tán
+檀	tán
+澹台	tán tái
+唐	táng
+堂	táng
+汤	tāng
+陶	táo
+腾	téng
+藤	téng
+提	tí
+题	tí
+遆	tí
+提挟	tí xié
+田	tián
+甜	tián
+添	tiān
+铁	tiě
+帖	tiē
+铁伐	tiě fá
+铁木	tiě mù
+廷	tíng
+茼	tóng
+仝	tóng
+同	tóng
+佟	tóng
+彤	tóng
+桐	tóng
+童	tóng
+通	tōng
+佟佳	tóng jiā
+凃	tú
+涂	tú
+屠	tú
+土	tǔ
+图门	tú mén
+吐万	tǔ wàn
+陀	tuó
+妥	tuǒ
+庹	tuǒ
+脱	tuō
+拓拔	tuò bá
+拓跋	tuò bá
+拓略	tuò lüè
+瓦	wǎ
+呙	wāi
+完	wán
+万	wàn
+宛	wǎn
+完颜	wán yán
+王	wáng
+望	wàng
+汪	wāng
+韦	wéi
+惟	wéi
+卫	wèi
+尉	wèi
+位	wèi
+蔚	wèi
+魏	wèi
+伟	wěi
+尾	wěi
+委	wěi
+隗	wěi
+巍	wēi
+危	wēi
+威	wēi
+嵬名	wéi míng
+微生	wēi shēng
+文	wén
+闻	wén
+问	wèn
+温	wēn
+闻人	wén rén
+瓮	wèng
+翁	wēng
+沃	wò
+我	wǒ
+无	wú
+毋	wú
+吴	wú
+吾	wú
+兀	wù
+务	wù
+戊	wù
+悟	wù
+仵	wǔ
+伍	wǔ
+武	wǔ
+午	wǔ
+忤	wǔ
+五	wǔ
+屋	wū
+乌	wū
+邬	wū
+巫	wū
+吴巢	wú cháo
+五鹿	wǔ lù
+巫马	wū mǎ
+吾丘	wú qiū
+乌孙	wū sūn
+乌雅	wū yǎ
+兀有	wù yǒu
+习	xí
+席	xí
+隰	xí
+戏	xì
+系	xì
+郤	xì
+喜	xǐ
+夕	xī
+西	xī
+希	xī
+昔	xī
+析	xī
+郗	xī
+奚	xī
+息	xī
+悉	xī
+西门	xī mén
+鏬	xià
+丅	xià
+夏	xià
+夏侯	xià hóu
+瑕丘	xiá qiū
+闲	xián
+贤	xián
+咸	xián
+县	xiàn
+线	xiàn
+羡	xiàn
+霰	xiàn
+冼	xiǎn
+先	xiān
+鲜	xiān
+仙	xiān
+鲜卑	xiān bēi
+鲜于	xiān yú
+庠	xiáng
+向	xiàng
+项	xiàng
+象	xiàng
+乡	xiāng
+相	xiāng
+襄	xiāng
+香	xiāng
+相里	xiāng lǐ
+效	xiào
+効	xiào
+校	xiào
+孝	xiào
+肖	xiāo
+萧	xiāo
+校师	xiào shī
+邪	xié
+偰	xiè
+谢	xiè
+解	xiè
+写	xiě
+镡	xín
+信	xìn
+衅	xìn
+辛	xīn
+忻	xīn
+信都	xìn dū
+刑	xíng
+行	xíng
+邢	xíng
+幸	xìng
+性	xìng
+姓	xìng
+兴	xīng
+星	xīng
+熊	xióng
+休	xiū
+修	xiū
+飍	xiū
+修鱼	xiū yú
+徐	xú
+续	xù
+绪	xù
+婿	xù
+顼	xù
+许	xǔ
+胥	xū
+须	xū
+吁	xū
+玄	xuán
+旋	xuán
+禤	xuān
+轩	xuān
+宣	xuān
+轩丘	xuān qiū
+轩辕	xuān yuán
+学	xué
+穴	xué
+雪	xuě
+薛	xuē
+寻	xún
+荀	xún
+郇	xún
+牙	yá
+亚	yà
+鸦	yā
+押	yā
+闫	yán
+筵	yán
+顏	yán
+沿	yán
+延	yán
+严	yán
+言	yán
+盐	yán
+阎	yán
+颜	yán
+晏	yàn
+燕	yàn
+妟	yàn
+琰	yǎn
+烟	yān
+焉	yān
+鄢	yān
+演阳	yǎn yáng
+扬	yáng
+羊	yáng
+阳	yáng
+杨	yáng
+洋	yáng
+仰	yǎng
+养	yǎng
+羊角	yáng jiǎo
+羊舌	yáng shé
+尧	yáo
+姚	yáo
+徭	yáo
+药	yào
+咬	yǎo
+要	yāo
+幺	yāo
+曳	yè
+业	yè
+叶	yè
+冶	yě
+野	yě
+耶	yē
+耶律	yé lǜ
+仪	yí
+夷	yí
+宜	yí
+怡	yí
+移	yí
+义	yì
+弋	yì
+易	yì
+奕	yì
+羿	yì
+益	yì
+裔	yì
+抑	yì
+以	yǐ
+矣	yǐ
+蚁	yǐ
+扆	yǐ
+乙	yǐ
+一	yī
+伊	yī
+衣	yī
+壹	yī
+乙弗	yǐ fú
+伊娄	yī lóu
+银	yín
+訚	yín
+鄞	yín
+印	yìn
+尹	yǐn
+隐	yǐn
+阴	yīn
+殷	yīn
+音	yīn
+殷勤	yīn qín
+殷子	yīn zǐ
+盈	yíng
+营	yíng
+嬴	yíng
+应	yīng
+英	yīng
+婴	yīng
+用	yòng
+永	yǒng
+勇	yǒng
+鄘	yōng
+雍	yōng
+尤	yóu
+由	yóu
+油	yóu
+游	yóu
+犹	yóu
+右	yòu
+宥	yòu
+友	yǒu
+有	yǒu
+酉	yǒu
+攸	yōu
+由吾	yóu wú
+有熊	yǒu xióng
+由章	yóu zhāng
+虞	yú
+于	yú
+余	yú
+臾	yú
+鱼	yú
+俞	yú
+愚	yú
+玉	yù
+郁	yù
+喻	yù
+御	yù
+遇	yù
+毓	yù
+豫	yù
+鬱	yù
+愈	yù
+僪	yù
+宇	yǔ
+羽	yǔ
+禹	yǔ
+语	yǔ
+庾	yǔ
+於	yū
+尉迟	yù chí
+於陵	yū líng
+宇文	yǔ wén
+贠	yuán
+元	yuán
+爰	yuán
+原	yuán
+袁	yuán
+源	yuán
+辕	yuán
+苑	yuàn
+渊	yuān
+岳	yuè
+越	yuè
+乐	yuè
+月	yuè
+乐正	yuè zhèng
+云	yún
+妘	yún
+员	yùn
+恽	yùn
+运	yùn
+允	yǔn
+在	zài
+载	zài
+再	zài
+宰	zǎi
+宰父	zǎi fǔ
+赞	zàn
+昝	zǎn
+臧	zāng
+皂	zào
+造	zào
+枣	zǎo
+早	zǎo
+遭	zāo
+糟	zāo
+迮	zé
+泽	zé
+曾	zēng
+曽	zēng
+查	zhā
+扎	zhā
+翟	zhái
+窄	zhǎi
+斋	zhāi
+绽	zhàn
+战	zhàn
+湛	zhàn
+展	zhǎn
+粘	zhān
+詹	zhān
+占	zhān
+鳣	zhān
+胀	zhàng
+仉	zhǎng
+掌	zhǎng
+张	zhāng
+章	zhāng
+漳	zhāng
+张包	zhāng bāo
+张简	zhāng jiǎn
+张廖	zhāng liào
+长孙	zhǎng sūn
+召	zhào
+赵	zhào
+兆	zhào
+诏	zhào
+照	zhào
+肇	zhào
+钊	zhāo
+招	zhāo
+兆昆	zhào kūn
+柘	zhè
+者	zhě
+镇	zhèn
+枕	zhěn
+针	zhēn
+真	zhēn
+甄	zhēn
+正	zhèng
+郑	zhèng
+政	zhèng
+征	zhēng
+蒸	zhēng
+植	zhí
+直	zhí
+郅	zhì
+挚	zhì
+秩	zhì
+彘	zhì
+智	zhì
+陟	zhì
+致	zhì
+芷	zhǐ
+止	zhǐ
+之	zhī
+支	zhī
+枝	zhī
+芝	zhī
+脂	zhī
+只	zhī
+终	Zhong
+钟	Zhong
+仲	zhòng
+众	zhòng
+种	zhǒng
+中	zhōng
+衷	zhōng
+仲长	zhòng cháng
+钟离	zhōng lí
+中叔	zhōng shū
+仲孙	zhòng sūn
+中行	zhōng xíng
+纣	zhòu
+州	zhōu
+舟	zhōu
+周	zhōu
+竹	zhú
+竺	zhú
+烛	zhú
+住	zhù
+祝	zhù
+主	zhǔ
+褚	zhǔ
+朱	zhū
+诸	zhū
+主父	zhǔ fù
+诸葛	zhū gě
+褚师	zhǔ shī
+朱文	zhū wén
+颛	zhuān
+颛孙	zhuān yǘ
+壮	zhuàng
+庄	zhuāng
+庄上	zhuāng shàng
+卓	zhuó
+禚	zhuó
+濯	zhuó
+字	zì
+自	zì
+子	zǐ
+紫	zǐ
+訾	zī
+资	zī
+子车	zǐ chē
+子丰	zǐ fēng
+子革	zǐ gé
+子国	zǐ guó
+子孔	zǐ kǒng
+子人	zǐ rén
+子驷	zǐ sì
+子轩	zǐ xuān
+子雅	zǐ yǎ
+纵	zòng
+宗	zōng
+宗圣	zōng shèng
+宗正	zōng zhèng
+宗政	zōng zhèng
+邹	zōu
+鄹	zōu
+俎	zǔ
+祖	zǔ
+尊	zūn
+笮	zuó
+柞	zuò
+左	zuǒ
+佐	zuǒ
+左丘	zuo qiu
+滕	téng
+刁	diāo
+牧	mù
+欧阳	ōu yáng
+徐离	xú lí
+傲	áo
+宾	bīn
+博	bó
+采	cǎi
+恩	ēn
+凡	fán
+格	gé
+冠	guān
+好	hǎo
+昊	hào
+浩	hào
+荷	hé
+恒	héng
+鸿	hóng
+湖	hú
+化	huà
+基	jī
+继	jì
+见	jiàn
+杰	jié
+静	jìng
+菊	jú
+俊	jùn
+卡	kǎ
+科	kē
+奎	kuí
+立	lì
+丽	lì
+刘付	liú fù
+绿	lǜ
+麦	mài
+曼	màn
+美	měi
+梦	mèng
+名	míng
+默	mò
+沐	mù
+娜	nà
+乃	nǎi
+尼	ní
+日	rì
+如	rú
+润	rùn
+若	ruò
+上	shàng
+升	shēng
+桃	táo
+天	tiān
+拓	tuò
+旺	wàng
+未	wèi
+溪	xī
+夏候	xià hòu
+湘	xiāng
+晓	xiǎo
+雄	xióng
+雅	yǎ
+岩	yán
+彦	yàn
+艳	yàn
+依	yī
+远	yuǎn
+悦	yuè
+忠	zhōng
+珠	zhū
