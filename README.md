@@ -31,3 +31,5 @@
 
 中文姓氏博大精深。通过构建这个姓氏注音字典，我第一次了解到有的人姓：第，第一，第三，第四，第五，第六，第七，第八...稍微以某字 + “姓“查了下百度，罕见的姓确实能罕见得超乎想象。
 
+## 训练集/测试集/预测集 (train/dev/test set)
+这里提供一段简单的[代码](https://github.com/jaaack-wang/ccnc/blob/main/Scripts/train_dev_test_split.ipynb)将ccnc语料库切分成训练集，测试集和预测集。默认的切分比例为6:2:2，[这个](https://drive.google.com/file/d/1z06MpC1Q0kKjVjCyUtmb2crpSsJ_Tjl4/view)是针对全汉字版的已经切分好的压缩文件。切分两个拼音版的语料库可以如法炮制。
